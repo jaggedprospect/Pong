@@ -1,2 +1,14 @@
 # Pong
-Just another Pong remake.
+This is a quick remake of Pong in Java -- not much else to it!
+
+<b>A Few Notes:</b>
+- The current method for checking for collisions is a bit inaccurate, particularly when the Ball intersects with the corner of a Paddle.
+- The game doesn't reset when a player scores.
+- There is no AI for single-player games. 
+- There is no UI aside from score labels.
+
+I will eventually update the program to accomodate everything stated and more. 
+
+Feel free to download and modify the source code as you see fit!
+
+<i>- Jagged</i>
